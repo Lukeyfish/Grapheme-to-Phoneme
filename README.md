@@ -10,7 +10,7 @@ In the endevour to create the best model I implemented several different approac
   * Bi-Directional LSTM (with cross attention)
   * Transformer
 
-Ultimately I found the Bi-Directional LSTM to result in the best results.  
+Ultimately I found the Bi-Directional LSTM to produce the best results.  
   
 Heres a little sample of what the model could output: 
 ### Grapheme ->      Phoneme  
