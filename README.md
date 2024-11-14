@@ -6,11 +6,10 @@ In the endevour to create the best model I implemented several different approac
   * RNN (this was my baseline)
   * GRU
   * LSTM
-  * Bi-Directional LSTM 
-  * Bi-Directional LSTM (with cross attention)
+  * LSTM variations with/withou Bi-Directional, Stacked, Self-Attention
   * Transformer
 
-Ultimately I found the Bi-Directional LSTM to produce the best results.  
+Ultimately I found the Bi-Directional Stacked LSTM to produce the best results.  
   
 Heres a little sample of what the model could output: 
 ### Grapheme ->      Phoneme  
