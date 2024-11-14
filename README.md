@@ -11,9 +11,10 @@ In the endevour to create the best model I implemented several different approac
 
 Ultimately I found the Bi-Directional Stacked LSTM to produce the best results.  
   
-Heres a little sample of what the model could output: 
-### Grapheme ->      Phoneme  
-* EXAM       ->  EH1 K S AH0 M  
-* MUSSELS    ->  M AH1 S AH0 L Z    
-* PANASONIC  ->  P AE2 N AH0 S OW1 N IH0 K  
-* ACCREDITED ->  AH0 K R EH1 D AH0 T IH0 D  
+
+<div align="center">
+  <img align="center" src="https://lukedojan.com/images/G2P_updated.gif" alt="Grapheme to Phoneme Conversion">
+  <p style="text-align: center;"> 
+    Figure 1: Sample output of model
+  </p>
+</div>
